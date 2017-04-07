@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["app.js"],"sourcesContent":["React.render(\r\n  React.createElement('h1', null, 'Hello, world!'),\r\n  document.getElementById('example')\r\n);"],"file":"app.js"}

@@ -1,0 +1,53 @@
+{
+  "name": "reactjs-sample",
+  "version": "1.0.0",
+  "description": "ReactJs Testing ",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-mrinal/reactjs-sample.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "HTML5"
+  ],
+  "author": "Mrinal Mondal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-mrinal/reactjs-sample/issues"
+  },
+  "homepage": "https://github.com/dev-mrinal/reactjs-sample#readme",
+  "dependencies": {
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "generate-babelrc": "^0.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.3.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.3.2",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-newer": "^1.3.0",
+    "gulp-sourcemaps": "^2.5.1",
+    "html-webpack-plugin": "^2.28.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2",
+    "webpack-stream": "^3.2.0"
+  }
+}
